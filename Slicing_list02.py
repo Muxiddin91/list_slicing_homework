@@ -1,4 +1,4 @@
-'''def main(list1):
+def main(list1):
     """
     A list of several elements is given. Reverse this list.
     Args:
@@ -6,6 +6,5 @@
     Returns:
         list: return answer.
     """
-    return list1[]'''
-a=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-print(a[len(a)::-1])
+    return list1[len(list1)::-1]
+print(main([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]))
